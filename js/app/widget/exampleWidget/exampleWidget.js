@@ -59,7 +59,8 @@ define([
 		}, 
 		_toggleButton: function() {
 			//domClass.toggle(this.exampleNode, '.btn-primary .btn-success');
-			console.log('hey yo uh huh');
+			console.log('hey yo');
+			alert('call smokey, its friday');
 		}
 	});
 	
