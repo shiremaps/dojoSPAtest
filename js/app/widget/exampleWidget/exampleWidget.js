@@ -62,7 +62,7 @@ define([
 			console.log('hey yo');
 			alert('call smokey, its friday');
 			console.log('yo this whack?');
-			console.log('monkey monkey jimmybob');
+			alert('call grandma');
 		}
 	});
 	
